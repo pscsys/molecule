@@ -26,3 +26,13 @@ def test_pkg(host, user):
     user = host.user(user)
 
     assert user.exists
+
+
+@pytest.mark.parametrize('file, content', [
+  ("/etc/motd", "m4n4g3d by 4ns1bl3")
+])
+def test_files(host, file, content):
+    file = host.file(file)
+
+    assert file.exists
+    assert file.contains(content)
