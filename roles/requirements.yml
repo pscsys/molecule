@@ -5,141 +5,141 @@
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/auditd
   scm: git
-  version: develop
+  version: master
   name: auditd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/bes
   scm: git
-  version: develop
+  version: master
   name: bes
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/bootsettings
   scm: git
-  version: develop
+  version: master
   name: bootsettings
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/cert
   scm: git
-  version: develop
+  version: master
   name: cert
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/cfgsoftwareupdate
   scm: git
-  version: develop
+  version: master
   name: cfgsoftwareupdate
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/chronyd
   scm: git
-  version: develop
+  version: master
   name: chronyd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/cron
   scm: git
-  version: develop
+  version: master
   name: cron
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/filesystem
   scm: git
-  version: develop
+  version: master
   name: filesystem
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/firewall
   scm: git
-  version: develop
+  version: master
   name: firewall
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/legacyservices
   scm: git
-  version: develop
+  version: master
   name: legacyservices
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/localeconfig
   scm: git
-  version: develop
+  version: master
   name: localeconfig
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/logrotate
   scm: git
-  version: develop
+  version: master
   name: logrotate
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/motd
   scm: git
-  version: develop
+  version: master
   name: motd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/nessusagent
   scm: git
-  version: develop
+  version: master
   name: nessusagent
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/networkparameters
   scm: git
-  version: develop
+  version: master
   name: networkparameters
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/ntpd
   scm: git
-  version: develop
+  version: master
   name: ntpd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/processhardening
   scm: git
-  version: develop
+  version: master
   name: processhardening
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/remoteuser
   scm: git
-  version: develop
+  version: master
   name: remoteuser
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/rsyslog
   scm: git
-  version: develop
+  version: master
   name: rsyslog
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/scom
   scm: git
-  version: develop
+  version: master
   name: scom
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/selinux
   scm: git
-  version: develop
+  version: master
   name: selinux
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/snmpd
   scm: git
-  version: develop
+  version: master
   name: snmpd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/specialservices
   scm: git
-  version: develop
+  version: master
   name: specialservices
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/ssh
   scm: git
-  version: develop
+  version: master
   name: ssh
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/sshd
   scm: git
-  version: develop
+  version: master
   name: sshd
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/tattoo
   scm: git
-  version: develop
+  version: master
   name: tattoo
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/tcpwrappers
   scm: git
-  version: develop
+  version: master
   name: tcpwrappers
 
 - src: ssh://dev.services.ergo:22/ITERGO/LNX_Ansible/_git/tsm
   scm: git
-  version: develop
+  version: master
   name: tsm
 
